@@ -30,3 +30,7 @@ auth_crypt_key =
 nps restart
 
 改动任何配置文件都要进行重启
+
+```
+nps restart
+```

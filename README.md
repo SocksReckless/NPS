@@ -1,3 +1,7 @@
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=SocksReckless/NPS&type=Date)](https://star-history.com/#SocksReckless/NPS&Date)
+
 # NPS
 NPS内网穿透项目（带Web控制端）
 
